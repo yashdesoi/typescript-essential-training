@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "ignoreDeprecations": "5.0",
+    "target": "ES3",
+    "outDir": "dist"
+  },
+  "include": ["**.js"]
+}

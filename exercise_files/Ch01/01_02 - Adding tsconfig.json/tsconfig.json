@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "ignoreDeprecations": "5.0",
+    "target": "ES3",
+    "noEmit": false,
+    "outDir": "dist",
+  },
+  "include": ["src/**/*"]
+}

@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "outDir": "dist",
+
+    // Setting for using TS in Node.js app
+    "module": "CommonJS"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
